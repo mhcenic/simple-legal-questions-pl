@@ -1,0 +1,286 @@
+passage_id;question;passage
+1993_602_2;Jakim nauczycielom przysuguje dodatek do emerytury lub renty w wysokości 10% przeciętnego wynagrodzenia?;W ustawie z dnia 26 stycznia 1982 r. - Karta Nauczyciela (Dz.U. Nr 3, poz. 
+19, Nr 25, poz. 187 i Nr 31, poz. 214, z 1983 r. Nr 5, poz. 33, z 1988 r. Nr 19, 
+poz. 132, z 1989 r. Nr 4, poz. 24 i Nr 35, poz. 192, z 1990 r. Nr 34, poz. 197, 
+Nr 36, poz. 206 i Nr 72, poz. 423, z 1991 r. Nr 95, poz. 425 i Nr 104, poz. 450 
+oraz z 1992 r. Nr 53, poz. 252, Nr 54, poz. 254 i Nr 90, poz. 451) w art. 90 ust. 
+1 otrzymuje brzmienie:
+       
+       "1. Nauczycielom, którzy w czasie okupacji prowadzili tajne nauczanie,
+          przysługuje dodatek do emerytury lub renty w wysokości 
+          10% przeciętnego wynagrodzenia w kwartale kalendarzowym 
+          poprzedzającym termin waloryzacji, jeżeli nie pobierają takiego 
+          dodatku z innego tytułu. Zmiana wysokości dodatku następuje 
+          od miesiąca, w którym jest przeprowadzana waloryzacja.".
+1994_195_7;Na jakich warunkach przedsiębiorcy mogą przewidzieć przyjmowanie projektów racjonalizatorskich?;1. Przedsiębiorcy mogą przewidzieć przyjmowanie projektów racjonalizatorskich
+  na warunkach określonych w ustalanym przez siebie regulaminie racjonalizacji.
+2. Przedsiębiorca może uznać za projekt racjonalizatorski w rozumieniu ustawy,
+  każde rozwiązanie nadające się do wykorzystania, niebędące wynalazkiem,
+  wzorem użytkowym, wzorem przemysłowym lub topografią układu scalonego.
+3. W regulaminie, o którym mowa w ust. 1, przedsiębiorca określa co najmniej,
+  jakie rozwiązania i przez kogo dokonane uznaje się w przedsiębiorstwie za
+  projekty racjonalizatorskie, a także sposób załatwiania zgłoszonych projektów
+  i zasady wynagradzania twórców tych projektów.
+1995_1_5;Jakie zadania należą do dyrektora wojewódzkiego urzędu pracy?;1. Do zadań dyrektora wojewódzkiego urzędu pracy należy w szczególności:
+   1) koordynowanie działalności rejonowych urzędów pracy na terenie województwa,
+     ustalanie liczby i zasięgu właściwości terytorialnej rejonowych
+     urzędów pracy, po zasięgnięciu opinii wojewody i wojewódzkiej 
+     rady zatrudnienia,
+   2) opracowywanie analiz i ocen dotyczących problematyki zatrudnienia w 
+     województwie na potrzeby Ministra Pracy i Polityki Socjalnej oraz rad 
+     zatrudnienia,
+   3) współdziałanie z wojewódzką radą zatrudnienia w podejmowaniu 
+     przedsięwzięć zmierzających do zapobiegania negatywnym dla pracowników
+     skutkom zwolnień z pracy oraz łagodzenia tych skutków, a zwłaszcza
+     pozyskiwania miejsc pracy i szkolenia bezrobotnych,
+   4) opracowywanie propozycji do planów Funduszu Pracy oraz sprawozdań z
+     wykorzystania środków Funduszu,
+   5) ustalanie zadań dla rejonowych urzędów pracy i limitów środków Funduszu
+     Pracy oraz kontrolowanie ich wykonania i wykorzystania,
+   6) przyjmowanie zgłoszeń od osób podejmujących pracę za granicą na 
+     podstawie umów zawieranych z pracodawcami zagranicznymi,
+   7) wydawanie decyzji w sprawach zatrudnienia cudzoziemców lub wykonywania
+     przez nich innej pracy zarobkowej,
+   8) organizowanie pośrednictwa pracy w skali międzywojewódzkiej,
+   9) wykonywanie zadań określonych w przepisach o zatrudnianiu i rehabilitacji
+     zawodowej osób niepełnosprawnych,
+  10) współdziałanie z wojewódzkim organem rządowej administracji specjalnej
+     do spraw oświaty w planowaniu i podejmowaniu przedsięwzięć w 
+     zakresie szkolenia bezrobotnych oraz w organizowaniu kształcenia zawodowego,
+  11) realizacja zadań określonych w przepisach o służbie zastępczej,
+  12) realizacja zadań wynikających z przepisów o ochronie roszczeń pracowniczych
+     w razie niewypłacalności pracodawcy,
+  13) organizowanie i koordynowanie usług poradnictwa zawodowego oraz 
+     rozwoju informacji zawodowej na terenie województwa, a także wspieranie
+     działalności klubów pracy,
+  14) realizacja zadań w zakresie kontroli przestrzegania przepisów ustawy,
+  15) inicjowanie oraz koordynowanie realizacji programów specjalnych.
+ 2. Dyrektor wojewódzkiego urzędu pracy wydaje decyzje o:
+   1) odstąpieniu od żądania zwrotu części lub całości nienależnie pobranego 
+     świadczenia,
+   2) odroczeniu spłaty lub umorzeniu części lub całości pożyczki udzielonej 
+     bezrobotnemu z Funduszu Pracy, z zastrzeżeniem art. 18 ust. 4.
+1995_59_18;Czy Prezes Najwyższej Izby Kontroli może być pociągnięty do odpowiedzialności przez Pana Waldemara Pawlaka?;Ze stanowiskiem Prezesa Najwyższej Izby Kontroli nie można łączyć przynależności
+do partii politycznej, innego zatrudnienia ani pełnienia funkcji publicznej,
+z wyjątkiem dodatkowej pracy w charakterze nauczyciela akademickiego 
+w szkole wyższej.
+1995_368_10;Jakie zgromadzenie tworzą sędziowie?;1. Sędziowie tworzą Zgromadzenie Ogólne Sędziów Sądu.
+ 2. Zgromadzenie Ogólne:
+   1) rozpatruje i opiniuje sprawy przedłożone przez Prezesa Sądu lub zgłoszone 
+     przez członków Zgromadzenia,
+   2) przedstawia Krajowej Radzie Sądownictwa kandydatów na sędziów Sądu,
+   3) wyraża zgodę, o której mowa w art. 4 ust. 2, w sprawie kandydatów 
+     na stanowiska Prezesa i wiceprezesów Sądu oraz ich odwołania,
+   4) ustala skład liczbowy Kolegium, wybiera na okres 3 lat jego członków 
+     i dokonuje zmian w składzie Kolegium,
+   5) opiniuje projekt utworzenia bądź likwidacji izby,
+   6) rozpatruje informacje Prezesa o rocznej działalności Sądu.
+ 3. Przewodniczącym Zgromadzenia Ogólnego jest Prezes Sądu.
+ 4. Zgromadzenie Ogólne zwołuje Prezes Sądu co najmniej raz w roku.
+ 5. Do podjęcia uchwał Zgromadzenia Ogólnego wymagana jest obecność przynajmniej 
+   połowy liczby jego członków. Uchwały zapadają bezwzględną większością głosów.
+1995_368_44;W jakim składzie zapadają orzeczenia sądu?;Orzeczenia Sądu zapadają w składzie trzech sędziów, chyba że ustawa niniejsza
+stanowi inaczej.
+1995_436_5;W jakiej sprawie powiat może zawierać z organami administracji rządowej porozumienia w sprawie wykonania zadań publicznych z zakresu administracji rządowej?;1. Powiat może zawierać z organami administracji rządowej porozumienia w
+  sprawie wykonywania zadań publicznych z zakresu administracji rządowej.
+2. Powiat może zawierać porozumienia w sprawie powierzenia prowadzenia zadań
+  publicznych z jednostkami lokalnego samorządu terytorialnego, a także z
+  województwem, na którego obszarze znajduje się terytorium powiatu.
+1995_436_10;Jak odwołać radę powiatu przed upływem kadencji?;1. Odwołanie rady powiatu przed upływem kadencji następuje w drodze referendum
+  powiatowego.
+2. W drodze referendum mogą być rozstrzygane sprawy z zakresu właściwości
+  powiatu.
+1995_436_74;Z kim miasto na prawach powiatu może tworzyć związki i zawierać porozumienia komunalne?;Miasto na prawach powiatu może tworzyć związki i zawierać porozumienia komunalne
+z gminami.
+1996_113_2;Jaki cel ma rozwój kultury fizycznej?;1. Podstawowymi celami kultury fizycznej jest dbałość o prawidłowy rozwój 
+   psychofizyczny i zdrowie wszystkich obywateli.
+ 2. Cele, o których mowa w ust. 1, realizowane są w szczególności poprzez:
+   1) wychowanie fizyczne,
+   2) sport,
+   3) rekreację ruchową,
+   4) rehabilitację ruchową.
+1996_113_7;Na jakich zasadach działa uczniowski klub sportowy?;1. Szczególnym rodzajem klubu sportowego jest uczniowski klub sportowy.
+ 2. Uczniowski klub sportowy działa na zasadach przewidzianych w ustawie z 
+   dnia 7 kwietnia 1989 r. - Prawo o stowarzyszeniach (Dz. U. Nr 20, poz. 
+   104 i z 1990 r. Nr 14, poz. 86), z wyłączeniem przepisów dotyczących rejestracji.
+ 3. Członkami uczniowskiego klubu sportowego mogą być w szczególności 
+   uczniowie, rodzice i nauczyciele.
+ 4. Uczniowskie kluby sportowe podlegają wpisowi do ewidencji, prowadzonej 
+   przez wojewodów właściwych ze względu na siedzibę klubów.
+ 5. Uczniowskie kluby sportowe posiadają osobowość prawną.
+1996_113_12;W jakim celu utworzono Międzynarodowy Komitet Paraolimpijski?; 1. W celu zapewnienia udziału reprezentacji polskich sportowców niepełnosprawnych
+   w igrzyskach paraolimpijskich oraz reprezentowania kraju w 
+   Międzynarodowym Komitecie Paraolimpijskim może zostać utworzony Polski
+   Komitet Paraolimpijski.
+ 2. Polski Komitet Paraolimpijski jest związkiem stowarzyszeń i innych osób 
+   prawnych, których celem statutowym jest organizacja, upowszechnianie 
+   oraz działalność na rzecz rozwoju sportu osób niepełnosprawnych.
+1996_113_19;Kto jest zobowiązany do prowadzenia zajęć wychowania fizycznego?;1. Przedszkola, szkoły, placówki oświatowo - wychowawcze oraz szkoły wyższe
+   działające w systemie dziennym obowiązane są do prowadzenia zajęć 
+   wychowania fizycznego.
+ 2. W ramowych planach nauczania szkół podstawowych i w pierwszych 
+   dwóch latach nauki w szkołach ponadpodstawowych zapewnia się 5 godzin 
+   lekcyjnych obowiązkowych zajęć wychowania fizycznego w ciągu tygodnia, 
+   z zastrzeżeniem art. 61.
+ 3. Zajęcia, o których mowa w ust. 1, prowadzone są również w jednostkach 
+   organizacyjnych podległych Ministrom Obrony Narodowej i Spraw Wewnętrznych
+   oraz Szefowi Obrony Cywilnej Kraju.
+ 4. Prezes Urzędu Kultury Fizycznej i Turystyki w porozumieniu z Ministrami 
+   Obrony Narodowej i Spraw Wewnętrznych określa, w drodze zarządzenia, 
+   wzorcowy program zajęć dla jednostek organizacyjnych, o których mowa w 
+   ust. 3.
+1996_2_26;Czy członkowie rady nadzorczej mogą poręczać pożyzki?;Członkowie rady nadzorczej, zarządu i komisji kredytowej nie mogą poręczać 
+pożyczek i kredytów.
+1996_199_15;Kto przeprowadza referendum?;Referendum przeprowadzają:
+   1) Państwowa Komisja Wyborcza, powołana na podstawie przepisów 
+     ustawy - Ordynacja wyborcza do Sejmu,
+   2) wojewódzkie komisje do spraw referendum,
+   3) obwodowe komisje do spraw referendum.
+1996_199_40;Na jakich zasadach prowadzona jest kampania referendalna w programach publicznych?;1. W programach publicznych i niepublicznych nadawców radiowych i telewizyjnych
+   kampania referendalna prowadzona jest w sposób i na zasadach 
+   określonych przepisami o radiofonii i telewizji, z zastrzeżeniem ust. 2-4.
+ 2. "Telewizja Polska - Spółka Akcyjna" i "Polskie Radio - Spółka Akcyjna", 
+   zwane dalej "Telewizją Polską" i "Polskim Radiem", obowiązane są w 
+   okresie od 20 dnia przed dniem referendum do nieodpłatnego rozpowszechniania
+   w ogólnopolskich programach telewizyjnych i radiowych wyjaśnień
+   Państwowej Komisji Wyborczej dotyczących kwestii prawnych zarządzonego
+   referendum, w szczególności treści pytań lub wariantów rozwiązań,
+   sposobu głosowania i jego skutków prawnych.
+ 3. Wyjaśnienia, o których mowa w ust. 2, przedstawiane są w specjalnych audycjach
+   referendalnych przygotowanych przez Telewizję Polską i Polskie 
+   Radio, których łączny czas nie może być krótszy niż 3 godziny w Telewizji 
+   Polskiej i 4 godziny w Polskim Radiu.
+ 4. Tryb postępowania w sprawie prowadzenia kampanii referendalnej w jednostkach
+   publicznej radiofonii i telewizji określi, w drodze rozporządzenia, 
+   Krajowa Rada Radiofonii i Telewizji.
+1996_199_41;Kto pokrywa wydatki związane z organizacją referendum?;Wydatki związane z organizacją przygotowań i przeprowadzeniem referendum 
+pokrywane są z budżetu państwa.
+1997_24_1;Jaką jednostką jest muzeum?;1. Muzeum jest jednostką organizacyjną, nie nastawioną na osiąganie zysku, 
+   której celem jest trwała ochrona dóbr kultury, informowanie o wartościach 
+   i treściach gromadzonych zbiorów, upowszechnianie podstawowych wartości
+   historii, nauki i kultury polskiej oraz światowej, kształtowanie wrażliwości
+   poznawczej i estetycznej oraz umożliwianie kontaktu ze zbiorami przez 
+   działania określone w art. 2.
+ 2. Muzealiami są rzeczy ruchome i nieruchomości wpisane do inwentarza 
+   muzealiów. Muzealia stanowią dobro ogólnospołeczne.
+1997_24_8;Kto sprawuje nadzór nad muzeami?: 1. Minister Kultury i Sztuki sprawuje nadzór nad muzeami. W tym celu może 
+   dokonywać kontroli ich działalności.
+ 2. W razie rażącego naruszania przepisów ustawy i statutu muzeum, gdy bezskuteczne
+   okazały się zalecenia usunięcia stwierdzonych uchybień w działalności
+   muzeum, Minister Kultury i Sztuki, po wysłuchaniu podmiotu, 
+   o którym mowa w art. 5 ust. 1, oraz rady muzeum lub rady powierniczej, 
+   po zapoznaniu się z opinią Rady do Spraw Muzeów, może, w drodze decyzji
+   administracyjnej, zakazać jego dalszej działalności. Decyzję tę podaje 
+   się do publicznej wiadomości w sposób zwyczajowo przyjęty.
+ 3. W decyzji, o której mowa w ust. 2, Minister Kultury i Sztuki wskazuje sposób
+   zabezpieczenia muzealiów.
+1997_24_10;Czy wstępn do muzeów jest odpłatny?;1. Wstęp do muzeów, z zastrzeżeniem ust. 2, jest odpłatny, chyba że właściwy 
+   podmiot, o którym mowa w art. 5 ust. 1, postanowi o nieodpłatnym wstępie
+   do muzeum.
+ 2. Jeden dzień w tygodniu wstęp do muzeów jest nieodpłatny.
+ 3. Wysokość opłat za wstęp do muzeum oraz dzień, w którym wstęp do muzeum
+   jest nieodpłatny, ustala dyrektor.
+ 4. Rada Ministrów określi, w drodze rozporządzenia, grupy osób, którym 
+   przysługuje ulga w opłacie lub zwolnienie z opłaty za wstęp do muzeów 
+   państwowych, z zastrzeżeniem ust. 5.
+ 5. Minister Kultury i Sztuki, po zasięgnięciu opinii Rady Ochrony Pamięci 
+   Walk i Męczeństwa, ustala, w drodze zarządzenia, wykaz państwowych 
+   muzeów martyrologicznych, do których wstęp jest bezpłatny.
+1997_650_1;Na jakich zasadach Papieska Akademia Teologiczna w Krakowie?;Papieska Akademia Teologiczna w Krakowie otrzymuje dotacje i inne środki z 
+budżetu państwa na zasadach określonych dla uczelni państwowych, z wyłączeniem
+dotacji na inwestycje budowlane.
+1997_753_4;Kto finansuje sądy wojskowe?;§ 1. Działalność sądów wojskowych jest finansowana z wyodrębnionych środków
+    budżetowych Ministerstwa Obrony Narodowej.
+§ 2. Minister Obrony Narodowej w porozumieniu z Ministrem Sprawiedliwości
+    i Ministrem Finansów ustala szczegółowe zasady planowania i wykorzystania
+    środków budżetowych, o których mowa w § 1.
+1997_753_14;Czym zajmują się prezesi sądów wojskowych?;§ 1. Prezesi sądów wojskowych wykonują czynności nadzoru służbowego i 
+    administracji sądowej przewidziane w przepisach postępowania sądowego 
+    oraz w regulaminach urzędowania, a także inne czynności określone w 
+    ustawach i odrębnych przepisach.
+§ 2. W zakresie, o którym mowa w § 1, prezesi wojskowych sądów garnizonowych
+    podlegają prezesom właściwych wojskowych sądów okręgowych, 
+    a prezesi tych sądów - dyrektorowi departamentu, o którym mowa w art. 
+    5 § 4.
+§ 3. Prezesi sądów wojskowych mogą zlecać poszczególne czynności nadzoru 
+    służbowego i administracji sądowej swoim zastępcom, a w szczególnych 
+    przypadkach - sędziom.
+§ 4. Prezes sądu wojskowego wyznacza sędziego do sprawowania nadzoru 
+    penitencjarnego.
+1997_753_32;W jakiej sytuacji prezydent Rzeczypospolitej Polskiej odwołuje sędziego?;§ 1. Prezydent Rzeczypospolitej Polskiej na wniosek Krajowej Rady Sądownictwa
+    odwołuje sędziego, jeżeli:
+    1) zrzekł się stanowiska,
+    2) utracił obywatelstwo polskie lub nabył obywatelstwo innego państwa,
+    3) wojskowa komisja lekarska ustaliła jego niezdolność do zawodowej 
+      służby wojskowej na stanowisku sędziego,
+    4) osiągnął wiek 60 lat.
+§ 2. Wniosek, w wypadkach określonych w § 1 pkt 2-4, zgłasza Krajowej Radzie
+    Sądownictwa Minister Obrony Narodowej po wyrażeniu opinii przez 
+    Ministra Sprawiedliwości.
+§ 3. Sędziego odwołanego z przyczyny określonej w § 1 pkt 1 wyznacza się za 
+    jego zgodą ponownie na stanowisko zajmowane poprzednio lub na stanowisko
+    równorzędne poprzednio zajmowanemu, jeżeli nie ma innych 
+    przeszkód prawnych i istnieje taka możliwość.
+§ 4. W wypadku nieskorzystania przez sędziego z przysługującego mu prawa, 
+    o którym mowa w § 3, zwalnia się go z zawodowej służby wojskowej, 
+    chociażby nie spełniał warunków określonych w przepisach o służbie wojskowej
+    żołnierzy zawodowych.
+1997_75343;Kto może być asesorem sądu wojskowego?;§ 1. Asesorem sądu wojskowego, zwanym dalej "asesorem", może być żołnierz 
+    zawodowy pełniący służbę stałą i posiadający stopień wojskowy w korpusie
+    oficerów, który spełnia wymagania określone w art. 22 § 1 pkt 1-5.
+§ 2. Asesora powołuje i odwołuje Minister Sprawiedliwości w porozumieniu z 
+    Ministrem Obrony Narodowej.
+§ 3. Staż asesorski odbywa się w wojskowym sądzie garnizonowym, trwa on co 
+    najmniej 2 lata i nie dłużej niż 4 lata, przy czym przez okres 6 miesięcy 
+    asesor wykonuje czynności sędziowskie w sądzie rejonowym.
+§ 4. W wypadku braku stanowisk sędziowskich można, za zgodą asesora, 
+    przedłużyć staż asesorski.
+§ 5. Minister Sprawiedliwości w porozumieniu z Ministrem Obrony Narodowej
+    określi, w drodze rozporządzenia, zasady odbywania stażu asesorskiego.
+2000_695_1;Jaką nazwę nadano Wyższej Szkole Pedagogicznej w Bydgoszczy?;Wyższej Szkole Pedagogicznej w Bydgoszczy nadaje się nazwę "Akademia Bydgoska
+im. Kazimierza Wielkiego".
+2000_1216_10;Do czego zobowiązana jest instytucja na pisemne żądanie Generalnego Inspektora?;Na pisemne żądanie Generalnego Inspektora instytucja obowiązana udostępnia
+dokumenty dotyczące transakcji, objętych przepisami ustawy. Udostępnianie polega
+w szczególności na przekazywaniu informacji o zawartości dokumentów,
+przekazywaniu ich potwierdzonych kopii lub udostępnianiu odpowiednich dokumentów
+do wglądu upoważnionym pracownikom w celu sporządzenia notatek bądź kopii.
+2000_1216_32;Co jeżeli Generalny Inspektorat posiada informacje, że zachodzi uzasadnione podejrzenie przestępstwa?;Jeżeli z posiadanych przez Generalnego Inspektora informacji lub z ich
+przetworzenia, a także analizy wynika, że zachodzi uzasadnione podejrzenie
+popełnienia przestępstwa, o którym mowa w art. 299 Kodeksu karnego, Generalny
+Inspektor zawiadamia prokuratora o podejrzeniu popełnienia przestępstwa oraz
+przekazuje mu materiały uzasadniające takie podejrzenie.
+2001_539_3;Jaka osoba może być członkiem spółdzielni?;1. Członkiem spółdzielni może być osoba fizyczna, choćby nie miała zdolności do
+  czynności prawnych lub miała ograniczoną zdolność do czynności prawnych.
+2. Członkami spółdzielni mogą być oboje małżonkowie, choćby spółdzielcze
+  lokatorskie prawo do lokalu mieszkalnego albo prawo odrębnej własności lokalu
+  przysługiwało tylko jednemu z nich.
+3. Członkiem spółdzielni może być osoba prawna, o ile statut nie stanowi
+  inaczej, jednakże takiej osobie nie przysługuje spółdzielcze lokatorskie
+  prawo do lokalu mieszkalnego.
+2004_897_9;Co w przypadku, gdy gospodarstwo dziedziczy więcej niż jedna osoba?;1. W przypadku gdy gospodarstwo dziedziczy więcej niż jedna osoba, w okresie od
+  dnia otwarcia spadku do dnia złożenia dyrektorowi oddziału terenowego Agencji
+  właściwemu ze względu na miejsce zamieszkania spadkobiercy, kopii umowy o
+  dziale spadku albo kopii postanowienia sądu o dziale spadku, uprawnienia
+  spadkobierców do indywidualnej ilości referencyjnej, z wyłączeniem możliwości
+  zbycia, dzierżawy lub konwersji, wykonuje upoważniony przez nich
+  spadkobierca.
+2. Upoważniony spadkobierca przedstawia niezwłocznie pisemne upoważnienie do
+  wykonywania uprawnień, o których mowa w ust. 1, dyrektorowi oddziału
+  terenowego Agencji, o którym mowa w ust. 1.
+3. Na podstawie pisemnego upoważnienia, o którym mowa w ust. 2, dyrektor
+  oddziału terenowego Agencji, o którym mowa w ust. 1, dokonuje tymczasowego
+  wpisu upoważnionego spadkobiercy do rejestru producentów i informuje
+  dyrektora oddziału terenowego Agencji właściwego ze względu na miejsce
+  zamieszkania spadkodawcy o dokonaniu tymczasowego wpisu.
+4. Do czasu wejścia w życie umowy o dziale spadku albo uprawomocnienia się
+  postanowienia sądu o dziale spadku, spadkobiercy, o których mowa w ust. 1,
+  ponoszą solidarną odpowiedzialność za zobowiązania związane z wykonywaniem
+  prawa do indywidualnej ilości referencyjnej.
+5. W terminie 14 dni od dnia wejścia w życie umowy o dziale spadku albo
+  uprawomocnienia się postanowienia sądu o dziale spadku spadkobierca lub
+  spadkobiercy przesyłają kopię umowy albo kopię postanowienia dyrektorowi
+  oddziału terenowego Agencji, o którym mowa w ust. 1.
+6. Dyrektor oddziału terenowego Agencji, o którym mowa w ust. 1, na podstawie
+  kopii umowy o dziale spadku albo kopii postanowienia sądu o dziale spadku,
+  dokonuje wpisu do rejestru producentów o przejściu prawa do indywidualnej
+  ilości referencyjnej na spadkobiercę lub spadkobierców.
